@@ -1,4 +1,4 @@
-% sdk, java, build tool
+% sdk, common
 
 # Set the global SDKMAN tracked version as default for <candidate>
 sdk default <candidate>
